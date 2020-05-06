@@ -24,6 +24,7 @@ fn main() {
     // }
 
     println!("{}", wer(2 , 3, 27));
+    
 }
 
 fn wer(qwe: u32, m: u32, num: u32) -> u32 {
